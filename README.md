@@ -16,3 +16,7 @@ Ele funciona como um "filtro" entre seu celular e a internet, bloqueando anúnci
 **⚠️ Nota:** Esta é uma versão de teste (Beta). Se encontrar algum erro, avise a gente!
 
 👇 **Baixe o arquivo .APK abaixo para instalar:**
+
+---
+⬇️ **ONDE BAIXAR:**
+Clique na setinha **"Assets"** logo aqui embaixo 👇 e depois clique no arquivo **AGS-Hero-v2.1-Beta.apk**.
