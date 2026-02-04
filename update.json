@@ -1,4 +1,6 @@
 {
-  "versionCode": 1,
-  "downloadUrl": "https://github.com/sys72/AGS-Hero-Releases/releases"
+  "versionCode": 26,
+  "versionName": "2.2.0-beta",
+  "downloadUrl": "https://github.com/sys72/AGS-Hero-Releases/releases/download/v2.2-b26/app-debug.apk",
+  "releaseNotes": "Novo motor DNS AdGuard, Contador de apps e UI corrigida."
 }
