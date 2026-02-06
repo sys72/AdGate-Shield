@@ -69,5 +69,5 @@ AdGate Shield operates by creating a **local VPN interface**.
 
 ---
 <div align="center">
-Code with passion by <b>Sys72</b>
+Developed with ❤️ by <b>Sys72</b>
 </div>
