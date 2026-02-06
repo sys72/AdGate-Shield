@@ -10,8 +10,8 @@
   <a href="README.es.md">🇪🇸 Leer en Español</a>
 </h3>
 
-![Version](https://img.shields.io/github/v/release/sys72/AGS-Hero-Releases?label=Version&style=for-the-badge&color=blue)
-![Downloads](https://img.shields.io/github/downloads/sys72/AGS-Hero-Releases/total?label=Downloads&style=for-the-badge&color=green)
+![Version](https://img.shields.io/github/v/release/sys72/AdGate-Shield?label=Version&style=for-the-badge&color=blue)
+![Downloads](https://img.shields.io/github/downloads/sys72/AdGate-Shield/total?label=Downloads&style=for-the-badge&color=green)
 ![Platform](https://img.shields.io/badge/Platform-Android_8+-orange?style=for-the-badge&logo=android)
 
 <br/>
@@ -20,7 +20,7 @@
 
 <br/>
 
-[⬇️ DOWNLOAD LATEST VERSION](https://github.com/sys72/AGS-Hero-Releases/releases/latest) | [🐛 REPORT ISSUES](https://github.com/sys72/AGS-Hero-Releases/issues)
+[⬇️ DOWNLOAD LATEST VERSION](https://github.com/sys72/AdGate-Shield/releases/latest) | [🐛 REPORT ISSUES](https://github.com/sys72/AdGate-Shield/issues)
 
 </div>
 
@@ -62,7 +62,7 @@ AdGate Shield operates by creating a **local VPN interface**.
 
 ## 🛠️ Installation
 
-1. Go to **[Releases](https://github.com/sys72/AGS-Hero-Releases/releases)**.
+1. Go to **[Releases](https://github.com/sys72/AdGate-Shield/releases)**.
 2. Download the latest `.apk` file.
 3. Install and grant the **VPN Connection** permission.
 4. Enjoy a cleaner internet.
