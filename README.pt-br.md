@@ -42,21 +42,39 @@ Pense nele como um **firewall digital**: ele fica entre seus aplicativos e a int
 
 ---
 
+## 📸 Interface & Experiência
+
+Projetado com foco no **Modo Escuro (Dark Mode)** e feedback visual minimalista.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Modo Standby</b></td>
+      <td align="center"><b>Proteção Ativa</b></td>
+      <td align="center"><b>Menu de Controle</b></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="assets/mockup-home-off.png" width="250" alt="Home Desligada"></td>
+      <td align="center"><img src="assets/mockup-home-on.png" width="250" alt="Home Ligada"></td>
+      <td align="center"><img src="assets/mockup-menu.png" width="250" alt="Menu Lateral"></td>
+    </tr>
+  </table>
+</div>
+
+### 👻 Operação Silenciosa
+O aplicativo roda eficientemente em segundo plano com uma notificação persistente discreta.
+
+<div align="center">
+  <img src="assets/notification-bar.png" alt="Barra de Notificação">
+</div>
+
+---
+
 ## 🔒 Segurança e Privacidade (A Parte Técnica)
 O AdGate Shield opera criando uma **interface VPN local**.
 - **Sem Servidores Externos:** Seus dados nunca saem do seu telefone para serem filtrados na nuvem. Tudo acontece dentro da sua CPU.
 - **Filtragem DNS:** Usamos regras estritas (Base AdGuard) para garantir bloqueio máximo sem quebrar sites.
 - **Persistência OneUI/MIUI:** Algoritmos personalizados para evitar que o sistema da Samsung ou Xiaomi mate a proteção para economizar bateria.
-
----
-
-## 📸 Screenshots
-
-<div align="center">
-  <img src="URL_SCREEN_1.png" width="200" alt="Home">
-  <img src="URL_SCREEN_2.png" width="200" alt="Ativo">
-  <img src="URL_SCREEN_3.png" width="200" alt="Notificação">
-</div>
 
 ---
 
