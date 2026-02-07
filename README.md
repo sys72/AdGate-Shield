@@ -42,21 +42,39 @@ Think of it as a **digital firewall**: it sits between your apps and the interne
 
 ---
 
-## 🔒 Security & Privacy (The Technical Part)
-AdGate Shield operates by creating a **local VPN interface**. 
-- **No External Servers:** Your data never leaves your phone to be filtered in a cloud. Everything happens inside your CPU.
-- **DNS Filtering:** We use strictly selected rules (AdGuard Base) to ensure maximum blocking efficiency with minimal breakage.
-- **OneUI/MIUI Persistence:** Custom algorithms to prevent system aggressive battery savers from killing the protection.
+## 📸 Interface & Experience
+
+Designed with a focus on **Dark Mode** and minimal visual feedback.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Standby Mode</b></td>
+      <td align="center"><b>Active Protection</b></td>
+      <td align="center"><b>Control Menu</b></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="assets/mockup-home-off.png" width="250" alt="Home Off"></td>
+      <td align="center"><img src="assets/mockup-home-on.png" width="250" alt="Home On"></td>
+      <td align="center"><img src="assets/mockup-menu.png" width="250" alt="Menu Drawer"></td>
+    </tr>
+  </table>
+</div>
+
+### 👻 Silent Operation
+The app runs efficiently in the background with a persistent, low-profile notification.
+
+<div align="center">
+  <img src="assets/notification-bar.png" alt="Notification Bar">
+</div>
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-  <img src="URL_SCREEN_1.png" width="200" alt="Home">
-  <img src="URL_SCREEN_2.png" width="200" alt="Active">
-  <img src="URL_SCREEN_3.png" width="200" alt="Notification">
-</div>
+## 🔒 Security & Privacy (The Technical Part)
+AdGate Shield operates by creating a **local VPN interface**. 
+- **No External Servers:** Your data never leaves your phone to be filtered in a cloud. Everything happens inside your CPU.
+- **DNS Filtering:** We use strictly selected rules to ensure maximum blocking efficiency with minimal breakage.
+- **OneUI/MIUI Persistence:** Custom algorithms to prevent system aggressive battery savers from killing the protection.
 
 ---
 
